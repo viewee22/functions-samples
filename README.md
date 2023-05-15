@@ -59,9 +59,9 @@ This quickstart demonstrates using **Cloud Functions** with an HTTPS trigger tha
 
 ### Cloud Storage trigger quickstart: Thumbnail generator
 
-- [Node 2nd gen](/Node/quickstarts/https-time-server/)
-- [Python](/Python/quickstarts/https-time-server/)
-- [Node 1st gen](/Node-1st-gen/quickstarts/https-time-server/)
+- [Node 2nd gen](/Node/quickstarts/thumbnails/)
+- [Python](/Python/quickstarts/thumbnails/)
+- [Node 1st gen](/Node-1st-gen/quickstarts/thumbnails/)
 
 This quickstart sample demonstrates using **Cloud Functions** triggered by **Firebase Storage events**. The function generates a thumbnail of uploaded images.
 
